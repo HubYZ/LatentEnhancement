@@ -19,9 +19,14 @@ hardware requirement: GPU
 Please cite
 
 @article{zhu2023fingergan,
+
   title={FingerGAN: A Constrained Fingerprint Generation Scheme for Latent Fingerprint Enhancement},
+  
   author={Zhu, Yanming and Yin, Xuefei and Hu, Jiankun},
+  
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  
   year={2023},
+  
   publisher={IEEE}
 }
