@@ -11,6 +11,7 @@ hardware requirement: GPU
 	-- the parameter sigma in this code was set to 6
 	
 ## Step 3: Latent enhancement using the FingerGAN
+	-- download the trained model https://drive.google.com/file/d/1lS8_wbMjf0_AHYMG4mO_Mrb2TpFVQVTa/view?usp=share_link and place it in the folder ./trained_model 
 	-- according to your image location, adjust the related parameters in the function '_init_configure()' in the file ./experiment/latent_fingerprint_enhancement.py
 	-- run latent_fingerprint_enhancement.py to obtain the enhanced fingerprints
 	
